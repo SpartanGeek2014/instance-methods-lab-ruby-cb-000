@@ -7,7 +7,3 @@ end
     puts "The dog is sitting"
   end
 end
-
-fido = Dog.new
-fido = Dog.bark
-fido = Dog.sit
