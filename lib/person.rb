@@ -8,7 +8,3 @@ end
     puts "The person is walking"
     end
 end
-
-ada = Person.new
-ada = Person.talk
-ada = Person.walk
